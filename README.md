@@ -1,11 +1,10 @@
 Hey everyone, I'm Braden! 👋
 
-I'm the founder of Epicenter, a collection of open-source tools to capture, refine, & finally export your ideas (YC S25). I started as a humanities student at Yale studying `Ethics, Politics, and Economics`, but fell in love with `coding` in my first year.
+I'm the founder of Epicenter, a collection of open-source tools  to capture, refine, and ultimately export your ideas (YC S25). I started as a humanities student at Yale studying `Ethics, Politics, and Economics,` but I fell in love with `coding` in my first year.
 
-Now, I seek to bridge the gaps between the two disciplines. I'm starting with open-source tools that maximize data ownership: transcription to capture raw ideas anywhere, and a local-first, digital second brain to refine and export them to every platform—as text, as video, as audio—all in your unique voice.
+Now, I seek to bridge the gaps between the two disciplines. I'm starting with open-source tools: transcription to capture raw ideas anywhere and a local-first, digital second brain to refine and export them to every platform—as text, as video, as audio—all in your unique voice.
 
-The moonshot is a community of intellectuals, writers, and thinkers who share ideas as authentic, low-dopamine content—because the world needs more genuine voices, not more AI slop. Along the way, I want to prove that open source software can thrive, disrupting some outdated business models along the way.
-
+The moonshot is a community of intellectuals, writers, and thinkers who share authentic, low-dopamine content, because the world needs more genuine voices, not more AI slop. Along the way, I want to prove that open-source software can thrive, disrupting some outdated business models along the way.
 
 
 ---
