@@ -4,7 +4,7 @@ I'm the founder of Epicenter, a collection of open-source tools  to capture, ref
 
 Now, I seek to bridge the gaps between the two disciplines. I'm starting with open-source tools to help you capture, refine, and export your ideas in your own unique voice.
 
-The end goal is to create a community of intellectuals, writers, and thinkers who nurture and share authentic, low-dopamine content—because the world needs more genuine voices, not more AI slop. Along the way, I want to prove that open-source software can thrive, disrupting some outdated business models along the way.
+The end goal is to create a community of writers and thinkers who nurture and share authentic, low-dopamine content—because the world needs more genuine voices, not more AI slop. Along the way, I want to prove that open-source software can thrive, disrupting some outdated business models along the way.
 
 
 ---
