@@ -1,16 +1,39 @@
+
 Hey everyone, I'm Braden! 👋
 
-I'm the founder of Epicenter, a collection of open-source tools  to capture, refine, and ultimately export your ideas (YC S25). I started as a humanities student at Yale studying `Ethics, Politics, and Economics,` but I fell in love with `coding` in my first year.
+I'm building **Epicenter**—open-source tools to capture, refine, and export your ideas (YC S25). I started as a humanities student at Yale studying Ethics, Politics, and Economics, but fell in love with coding in my first year.
 
-Now, I seek to bridge the gaps between the two disciplines. I'm starting with open-source tools to help you capture, refine, and export your ideas in your own unique voice.
+Now, I work to bridge these disciplines through software that respects human creativity. Here's what I'm building:
 
-The end goal is to create a community of writers and thinkers who nurture and share authentic, low-dopamine content—because the world needs more genuine voices, not more AI slop. Along the way, I want to prove that open-source software can thrive, disrupting some outdated business models along the way.
+- **[Whispering](https://github.com/braden-w/whispering)**: A reliable transcription app to capture your raw ideas—voice recordings, meetings, spontaneous notes—anywhere, anytime
+- **A local-first "second brain"**: An integrated open-source Obsidian alternative to organize, refine, and connect your thoughts (coming soon)
+- **Multi-format publishing tools**: Like Substack, but deeply integrated into your local files. Write once, export everywhere: text, video, or audio
+
+Currently, I'm focused on automating boring steps—such as transcription, formatting, and cross-posting—so you can focus on thinking and writing. The eventual goal? Build in public with a community of intellectuals, experts, and thinkers who believe human reflection still matters.
+
+**Our moonshot:** Create publishing infrastructure that empowers anyone to share ideas that stand out from AI-generated noise. The world needs more genuine voices, not more "slop."
+
+
+If you:
+- Love open source and believe in data ownership
+- Have ever under-shared your best ideas
+- Want to help build tools that reward reflection over reaction
+
+You belong here. Contribute to the code, shape the community, and prove that human authenticity can thrive in the age of AI.
 
 
 ---
 
-I've been on a resolution to make one commit a day for the past few years. Many of these commits are a combination of my various personal projects and a vault where I take all my notes.
+I've been making one commit a day for the past few years, a mix of personal projects and my knowledge vault. While I've been fortunate to have wonderful industry jobs, open-source software has a special place in my heart.
 
-While I've been fortunate to have wonderful industry jobs, open-source software has a special place in my heart. It is liberating to code without worrying about profits and temptations to monetize users or profit from their data. Thanks to Epicenter, I'm fortunate to be able pursue this full-time.
+I believe open-source can thrive and disrupt outdated business models. Thanks to Epicenter, I'm fortunate to pursue this full-time.
 
-Your support through [sponsorships](https://github.com/sponsors/braden-w) is greatly appreciated, but please only contribute if you feel financially secure enough to do so. Your contributions enable me to pursue and develop projects like [Whispering](https://github.com/braden-w/whispering) and other projects that I hope to help the community. That being said, if you're feeling generous and financially secure, consider supporting other open-source maintainers who are doing incredible work! The open-source ecosystem thrives when we support each other. Thank you for your time!
+---
+
+Your support through [sponsorships](https://github.com/sponsors/braden-w) is greatly appreciated, but please only contribute if you're financially secure. Your contributions enable projects like Whispering that help the entire community.\
+
+That said, if you're feeling generous, consider supporting other open-source maintainers doing incredible work! The ecosystem thrives when we support each other.
+
+---
+
+*Building in public with a community of writers, thinkers, and builders who believe human reflection still matters.*
