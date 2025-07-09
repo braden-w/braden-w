@@ -21,13 +21,6 @@ If you:
 
 You belong here. Contribute to the code, shape the community, and prove that human authenticity can thrive in the age of AI.
 
-
----
-
-I've been making one commit a day for the past few years, a mix of personal projects and my knowledge vault. While I've been fortunate to have wonderful industry jobs, open-source software has a special place in my heart.
-
-I believe open-source can thrive and disrupt outdated business models. Thanks to Epicenter, I'm fortunate to pursue this full-time.
-
 ---
 
 Your support through [sponsorships](https://github.com/sponsors/braden-w) is greatly appreciated, but please only contribute if you're financially secure. Your contributions enable projects like Whispering that help the entire community.\
