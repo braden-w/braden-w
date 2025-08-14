@@ -1,32 +1,10 @@
 
 Hey everyone, I'm Braden! 👋
 
-I'm building **Epicenter**—open-source tools to capture, refine, and export your ideas (YC S25). I started as a humanities student at Yale studying Ethics, Politics, and Economics, but fell in love with coding in my first year.
+I'm building **Epicenter** (YC S25). I started as a humanities student at Yale studying `Ethics, Politics, and Economics`, but fell in love with `coding` in my first year. Now, I seek to bridge the gaps between the two disciplines, building and writing in public as avenues to do good. 🧑‍💻
 
-Now, I work to bridge these disciplines through software that respects human creativity. Here's what I'm building:
+At Epicenter, I build open-source tooling that maximizes data ownership and transparency. Our vision is to store your entire life in a portable folder of plaintext and SQLite, and build an ecosystem of local-first, open-source apps on top of this shared memory.
 
-- **[Whispering](https://github.com/braden-w/whispering)**: A reliable transcription app to capture your raw ideas—voice recordings, meetings, spontaneous notes—anywhere, anytime
-- **A local-first "second brain"**: An integrated open-source Obsidian alternative to organize, refine, and connect your thoughts (coming soon)
-- **Multi-format publishing tools**: Like Substack, but deeply integrated into your local files. Write once, export everywhere: text, video, or audio
+While I've been fortunate to have wonderful industry jobs in the past, open-source software has a special place in my heart. It is liberating to code without worrying about profits and temptations to monetize users or profit from their data. While I make much less in open-source software, I am fortunate to make it my full-time career.
 
-Currently, I'm focused on automating boring steps—such as transcription, formatting, and cross-posting—so you can focus on thinking and writing. The eventual goal? Build in public with a community of intellectuals, experts, and thinkers who believe human reflection still matters.
-
-**Our moonshot:** Create publishing infrastructure that empowers anyone to share ideas that stand out from AI-generated noise. The world needs more genuine voices, not more "slop."
-
-
-If you:
-- Love open source and believe in data ownership
-- Have ever under-shared your best ideas
-- Want to help build tools that reward reflection over reaction
-
-You belong here. Contribute to the code, shape the community, and prove that human authenticity can thrive in the age of AI.
-
----
-
-Your support through [sponsorships](https://github.com/sponsors/braden-w) is greatly appreciated, but please only contribute if you're financially secure. Your contributions enable projects like Whispering that help the entire community.\
-
-That said, if you're feeling generous, consider supporting other open-source maintainers doing incredible work! The ecosystem thrives when we support each other.
-
----
-
-*Building in public with a community of writers, thinkers, and builders who believe human reflection still matters.*
+Your support through [sponsorships](https://github.com/sponsors/braden-w) is greatly appreciated, but please only contribute if you feel financially secure enough to do so. Your contributions enable me to pursue and develop projects like [Epicenter](https://github.com/epicenter-so/epicenter), [Wellcrafted](https://github.com/wellcrafted-dev/wellcrafted), and other projects that I hope to help the community. Thank you for your time!
